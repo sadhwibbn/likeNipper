@@ -1,0 +1,1 @@
+Will contain source to replicate Nipper Studio functionality.
